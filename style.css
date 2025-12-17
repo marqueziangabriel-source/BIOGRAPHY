@@ -1,0 +1,48 @@
+body {
+  background-color: #3e2c23;
+  color: #f5f1ee;
+  font-family: "Poppins", sans-serif;
+  line-height: 1.8;
+}
+
+header {
+  background-color: #2a1d16;
+  padding: 30px;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Playfair Display", serif;
+  font-size: 3em;
+  color: #ffffff;
+}
+
+main {
+  padding: 40px;
+}
+
+h2 {
+  color: #ffffff;
+  border-bottom: 2px solid #d1b38a;
+  padding-bottom: 5px;
+}
+
+p {
+  background-color: #4b3621;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 40px;
+  text-align: justify;
+}
+
+sup {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+footer {
+  background-color: #2a1d16;
+  text-align: center;
+  padding: 1px;
+  font-size: 0.9em;
+}
